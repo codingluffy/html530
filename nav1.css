@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding:12px;
+    align-items: center;
+    background-color:darkcyan;
+}
+
+.nav li img{
+    width:200px;
+    padding:0px ;
+}
+.nav li ul{
+    display: flex;
+text-decoration: none;
+list-style-type: none;
+}
+.nav ul li a{
+  text-decoration: none;
+    margin:15px;
+    color:aqua;
+    font-size: large;
+    scroll-padding-top: 70px;
+}

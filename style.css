@@ -1,0 +1,13 @@
+h1{
+    color: yellow !important;;
+} 
+.Rai{
+    width: 250px;
+    height: 300px;
+}
+.Shubham{
+    width:500px;
+    height:600px;
+}
+/* This is called class selector to select only the class which are selected not whole page
+This is also external Css */

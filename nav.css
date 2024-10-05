@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    padding:12px;
+}
+.nav li a{
+    text-decoration: none;
+    margin:20px;
+    color: black;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.navbar{
+    background-color:yellow;
+    
+}
+.navbar li{
+    float:left;
+    list-style:none;
+    margin: 4px 4px;
+    align-items: center;
+}
+.navbar li a{
+    padding:4px 4px;
+    text-decoration: none;
+    color: darkmagenta;
+}
+p h3{
+    padding: 4px 4px;
+    padding-top: 6px 6px;
+}
+
