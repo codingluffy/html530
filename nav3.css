@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&family=Protest+Strike&display=swap');
+*{
+   /* font-family: "Edu AU VIC WA NT Dots", cursive;
+  font-optical-sizing: auto;
+  font-weight:500;
+  font-style: normal;*/
+  font-family: "Protest Strike", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: bisque;
+    
+}
+.navbar article  div select {
+    border:none;
+    background-color: bisque;
+}
+.navbar article div{
+margin: 10PX;
+}
+.navbar article{
+    display: flex;
+}
+.display article .free::after{
+    content: "LEARN MORE";
+    background-color: black;
+    font-weight: 700;
+    color: white;
+    margin-left: 5px;
+    padding:0px 10px 0px 10px;
+}
+.one{
+    display: flex;
+    justify-content: space-evenly;
+    height:100px;
+    align-items: center;
+    background-color: aqua;}
+    .searchbar{
+        width: 400px; 
+        padding: 5px; 
+        font-size: 18px; 
+        border: 2px solid #ccc;
+        border-radius: 25px 25px 25px 25px;
+        outline: none;/*TOday's Topic*/
+    }  
+    .search-btn {
+        padding: 5px; 
+        font-size: 10px;
+        background-color: #2874f0;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px 5px 5px 5px;
+    }
+    .search-btn {
+        padding: 10px; 
+        font-size: 2px;
+        background-color: #2874f0;
+        color: white;
+        border: none;
+        cursor: pointer;
+        border-radius: 5px 5px 5px 5px;
+    }
+    .search-btn:hover {
+        background-color: #1a56c2;
+    }
+
+
+ 
+   
+
+
+.one article{
+    display: flex;
+}
+.uy a{
+font-weight: 700;
+margin: 0px 20px 0px 20px;
+text-decoration: none;
+padding:20px;
+font-size:xx-large;
+}
+article  div a{
+    padding:5px;
+    margin:5px;
+    text-decoration: none;
+color:black;
+
+}
+article div a i{
+    margin-right:4px;
+}

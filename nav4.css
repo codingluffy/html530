@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{font-family: "Ubuntu", sans-serif;
+font-weight: 500;
+font-style: normal;}
+.bottomnavbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottomnavbar div a{
+    margin:10px;
+    text-decoration: none;
+    color: black;
+}
+/*========Hero=========*/
+.hero{
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+}
+.hero .heroa1{
+    width: 28vw;
+    height: 88vhpx;
+}
+.hero .heroa1 div img{
+    width: 18vw;
+    height: 88vh;
+}
+.hero heroa2{
+    width:18vw;
+    height:88vh
+}
+.hero ,heroa2{
+    width:18vw;
+    height:88vh;
+}
