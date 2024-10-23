@@ -1,0 +1,24 @@
+#hero{
+    background-image: url(https://cdn-hcnah.nitrocdn.com/oWjIFDiNsNoqrXqLNDANaHumEZsIjFml/assets/images/optimized/rev-7d4d0e1/namanhr.com/wp-content/uploads/2021/11/blogbanner-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height:70vh;
+    overflow: hidden;
+}
+#hero article{
+    position: relative;
+    top:300px;
+    background: rgba(0, 0, 0, 0.7);
+}
+#hero article div{
+font-size: 44px;
+color: whitesmoke;
+}
+#hero article div::selection{
+    color: red;
+    background-color: aqua;
+}
+#hero article div ::after{
+    ci
+}

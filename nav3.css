@@ -9,6 +9,32 @@
   font-weight: 400;
   font-style: normal;
 }
+._4option div{
+  width:60px;
+  height:60px;
+  background-color: aquamarine;
+  margin: 20px;
+}
+._4option{
+    position: fixed;
+    right:0px;
+    top:200px;
+}
+._4option div i{
+   font-size:xx-large;
+    margin:15px;
+    text-align: center;
+}
+#phoneicon{
+    background-color: black;
+    color:violet;
+    border-radius: 50%;
+    padding: 20px;
+    font-size: 20px;
+    position: fixed;
+    right:100px;
+    bottom: 100px;
+}
 .navbar{
     display: flex;
     justify-content: space-evenly;
